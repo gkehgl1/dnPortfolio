@@ -5,4 +5,4 @@ My hobby is riding a Bicycle, playing a Piano</h3>
 <h1>자동완성</h1>
 
 
-https://img.shields.io/static/v1?label=<Dashes>&message=<hihihihi>&color=<yellowgreen>
+https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white
