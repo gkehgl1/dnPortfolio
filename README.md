@@ -4,8 +4,7 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=lamula&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=lamula&logo=html5&logoColor=white">
   </blockquote>
-  ?
-  
+</div>  
 
 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=gkehgl1&show_icons=true)
