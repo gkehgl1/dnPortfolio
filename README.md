@@ -1,11 +1,6 @@
-<h3>hello! i'm currently a C# Developer
-I used is Vue.js and now learning React.js
-
-My hobby is riding a Bicycle, playing a Piano</h3>
-
-
-
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+
+<img src="https://img.shields.io/badge/..NET?style=flat-square&logo=Java&logoColor=#512BD4">
 
 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=gkehgl1&show_icons=true)
