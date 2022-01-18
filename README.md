@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
 
-<img src="https://img.shields.io/badge/..NET?style=flat-square&logo=Java&logoColor=#512BD4">
+<img src="https://img.shields.io/badge/.NET?style=flat-square&logo=Java&logoColor=#512BD4">
 
 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=gkehgl1&show_icons=true)
